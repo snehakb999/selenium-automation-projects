@@ -33,3 +33,8 @@ test-output/
 Reports/
 Screenshot/
 Screenshots/
+
+# Eclipse
+.classpath
+.project
+.settings/
