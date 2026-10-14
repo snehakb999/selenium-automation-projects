@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-14T14:06:39 IST" name="Default suite" finished-at="2026-10-14T14:09:02 IST" duration-ms="143249">
+    <groups>
+    </groups>
+    <test started-at="2026-10-14T14:06:39 IST" name="Default test" finished-at="2026-10-14T14:09:02 IST" duration-ms="143249">
+      <class name="test.TestClass">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:06:39 IST" name="setUp" finished-at="2026-10-14T14:06:49 IST" duration-ms="10742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="totalLinks()[pri:1, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:06:49 IST" name="totalLinks" finished-at="2026-10-14T14:06:50 IST" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:06:50 IST" name="tearDown" finished-at="2026-10-14T14:06:51 IST" duration-ms="1413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:06:51 IST" name="setUp" finished-at="2026-10-14T14:07:00 IST" duration-ms="8688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="brokenLinks()[pri:2, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:07:00 IST" name="brokenLinks" finished-at="2026-10-14T14:08:04 IST" duration-ms="63696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brokenLinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:04 IST" name="tearDown" finished-at="2026-10-14T14:08:04 IST" duration-ms="674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:04 IST" name="setUp" finished-at="2026-10-14T14:08:10 IST" duration-ms="5771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickPlayground()[pri:3, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:10 IST" name="clickPlayground" finished-at="2026-10-14T14:08:11 IST" duration-ms="645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickPlayground -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:11 IST" name="tearDown" finished-at="2026-10-14T14:08:12 IST" duration-ms="975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:12 IST" name="setUp" finished-at="2026-10-14T14:08:18 IST" duration-ms="6915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="switchToNewTab()[pri:4, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:18 IST" name="switchToNewTab" finished-at="2026-10-14T14:08:19 IST" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchToNewTab -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:19 IST" name="tearDown" finished-at="2026-10-14T14:08:20 IST" duration-ms="1049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:20 IST" name="setUp" finished-at="2026-10-14T14:08:25 IST" duration-ms="4710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTitle()[pri:5, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:25 IST" name="verifyTitle" finished-at="2026-10-14T14:08:29 IST" duration-ms="3694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:29 IST" name="tearDown" finished-at="2026-10-14T14:08:30 IST" duration-ms="1017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:30 IST" name="setUp" finished-at="2026-10-14T14:08:41 IST" duration-ms="10980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="switchToParent()[pri:6, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:41 IST" name="switchToParent" finished-at="2026-10-14T14:08:42 IST" duration-ms="900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchToParent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:42 IST" name="tearDown" finished-at="2026-10-14T14:08:43 IST" duration-ms="1043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:43 IST" name="setUp" finished-at="2026-10-14T14:08:50 IST" duration-ms="7653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogo()[pri:7, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:50 IST" name="verifyLogo" finished-at="2026-10-14T14:08:51 IST" duration-ms="1020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:51 IST" name="tearDown" finished-at="2026-10-14T14:08:53 IST" duration-ms="1399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:53 IST" name="setUp" finished-at="2026-10-14T14:08:57 IST" duration-ms="4428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickSeleniumTraining()[pri:8, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:08:57 IST" name="clickSeleniumTraining" finished-at="2026-10-14T14:09:01 IST" duration-ms="3334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSeleniumTraining -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.TestClass@5e5d171f]" started-at="2026-10-14T14:09:01 IST" name="tearDown" finished-at="2026-10-14T14:09:02 IST" duration-ms="1242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
